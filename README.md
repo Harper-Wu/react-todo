@@ -11,8 +11,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 #### All
 ![All](./src/imgs/todoapp.png)
 #### Edit
-![Edit](./src/imgs/edit.png)
+![Edit](./src/imgs/Edit.png)
 #### Complete
-![Complete](./src/imgs/filter_complete.png)
+![Complete](./src/imgs/Filter_complete.png)
 #### Uncomplete
-![Uncomplete](./src/imgs/filter_uncomplete.png)
+![Uncomplete](./src/imgs/Filter_uncomplete.png)
